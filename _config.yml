@@ -1,6 +1,18 @@
 title: <p align="center"> Sameer Beloshe </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/sameerbeloshe/">LinkedIn</a> |
+  <a href="https://github.com/sameerbeloshe">GitHub</a>
+
+  <br>
+  I am currently pursuing a Master's in Data Analytics and Visualizations, complementing my experience as a Data Analyst. Proficient in SQL, Python, and Power BI, I specialize in extracting actionable insights from complex datasets, contributing to informed decision-making process.
+  <br>
+  </p>
+
+
+
+  
 theme: jekyll-theme-minimal
