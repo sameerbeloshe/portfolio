@@ -2,18 +2,17 @@ title: <p align="center"> Sameer Beloshe </p>
 logo: assets/img/Sameer.png
 
 description:
-  <a href="assets/img/Sameer Beloshe Resume.pdf">Resume</a> |
-  <a href="https://www.linkedin.com/in/sameerbeloshe/">LinkedIn</a> |
-  <a href="https://github.com/sameerbeloshe">GitHub</a>
-
+  
   <br>
   I am currently pursuing a Master's in Data Analytics and Visualizations, 
   complementing my experience as a Data Analyst. 
   Proficient in SQL, Python, and Power BI.
   <br>
   </p>
-
-
+  <p align="center">
+  <a href="assets/img/Sameer Beloshe Resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/sameerbeloshe/">LinkedIn</a> |
+  <a href="https://github.com/sameerbeloshe">GitHub</a>
 
   
 theme: jekyll-theme-minimal
