@@ -24,7 +24,7 @@ An analysis of an insurance company which will closely monitor the progress and 
 
 <center><img src="assets/img/ShieldInsurance.png"/></center>
 
-## Shield Insurance
+## Sales Analytics
 
 An analysis for the sales team which will help them to evaluate customer performance and understand their market performance with respect to their target.
 
