@@ -23,3 +23,11 @@ An analysis of an insurance company which will closely monitor the progress and 
 [![View on GitHub](https://img.shields.io/badge/Github-View_on_GitHub-blue?logo=GitHub)](https://github.com/sameerbeloshe/Social-buzz)
 
 <center><img src="assets/img/ShieldInsurance.png"/></center>
+
+## Shield Insurance
+
+An analysis for the sales team which will help them to evaluate customer performance and understand their market performance with respect to their target.
+
+[![View on GitHub](https://img.shields.io/badge/Github-View_on_GitHub-blue?logo=GitHub)](https://github.com/sameerbeloshe/Social-buzz)
+
+<center><img src="assets/img/SalesAnalytics.jpg"/></center>
