@@ -1,5 +1,5 @@
 # My Portfolio
---
+---
 ## Social Buzz
 
 An analysis of various types of contents ranging from text, images, videos and GIFs posted online daily.
@@ -8,6 +8,7 @@ An analysis of various types of contents ranging from text, images, videos and G
 
 <center><img src="assets/img/SocialBuzz.png"/></center>
 ---
+
 ## Game Sales Prediction
 
 An analysis of sales of famous video games and the attributes contributing to the success of the top selling video games.
@@ -16,6 +17,7 @@ An analysis of sales of famous video games and the attributes contributing to th
 
 <center><img src="assets/img/VideoGame.png"/></center>
 ---
+
 ## Shield Insurance
 
 An analysis of an insurance company which will closely monitor the progress and make informed decisions for the company's success.
@@ -24,6 +26,7 @@ An analysis of an insurance company which will closely monitor the progress and 
 
 <center><img src="assets/img/ShieldInsurance.png"/></center>
 ---
+
 ## Sales Analytics
 
 An analysis for the sales team which will help them to evaluate customer performance and understand their market performance with respect to their target.
