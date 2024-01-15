@@ -7,7 +7,6 @@ An analysis of various types of contents ranging from text, images, videos and G
 [![View on GitHub](https://img.shields.io/badge/Github-View_on_GitHub-blue?logo=GitHub)](https://github.com/sameerbeloshe/Social-buzz)
 
 <center><img src="assets/img/SocialBuzz.png"/></center>
----
 
 ## Game Sales Prediction
 
@@ -16,7 +15,6 @@ An analysis of sales of famous video games and the attributes contributing to th
 [![View on GitHub](https://img.shields.io/badge/Github-View_on_GitHub-blue?logo=GitHub)](https://github.com/sameerbeloshe/Social-buzz)
 
 <center><img src="assets/img/VideoGame.png"/></center>
----
 
 ## Shield Insurance
 
@@ -25,7 +23,6 @@ An analysis of an insurance company which will closely monitor the progress and 
 [![View on GitHub](https://img.shields.io/badge/Github-View_on_GitHub-blue?logo=GitHub)](https://github.com/sameerbeloshe/Social-buzz)
 
 <center><img src="assets/img/ShieldInsurance.png"/></center>
----
 
 ## Sales Analytics
 
