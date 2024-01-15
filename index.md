@@ -20,7 +20,7 @@ An analysis of sales of famous video games and the attributes contributing to th
 
 An analysis of an insurance company which will closely monitor the progress and make informed decisions for the company's success.
 
-[![View on GitHub](https://img.shields.io/badge/Github-View_on_GitHub-blue?logo=GitHub)](https://github.com/sameerbeloshe/Shield-Insurance)
+[![View on GitHub](https://img.shields.io/badge/Github-View_on_GitHub-blue?logo=GitHub)](https://github.com/sameerbeloshe/Shield_Insurance)
 
 <center><img src="assets/img/ShieldInsurance.png"/></center>
 
